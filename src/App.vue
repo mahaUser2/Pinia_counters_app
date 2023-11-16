@@ -1,5 +1,6 @@
 <script setup>
 import {ref, computed} from "vue";
+
 import countersData from "@/assets/counters.js";
 import CounterComp from "@/components/CounterComp.vue";
 
